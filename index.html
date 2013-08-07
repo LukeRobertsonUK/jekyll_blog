@@ -15,7 +15,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum. HELLO
 <ul>
 {% for post in site.posts %}
 <li>
-  <a href= "{{post.url}}">
+  <a href= "{{site.baseurl}}{{post.url}}">
     {{post.title}}
   </a>
 </li>

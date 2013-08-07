@@ -1,0 +1,2 @@
+exclude: ['Gemfile', 'Gefile.lock', 'README.md']
+baseurl: "http://LukeRobertsonUK.github.io/jekyll_blog/"
